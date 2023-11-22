@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 ! I am Aishanya Alankrit</h1>
 - 🔭 I’m currently working as Developer L2
 - 🌱 I’m currently learning Javascript , React JS , CSS, HTML , SQL , EXCEL , Angular, C++
 - 👯 I’m looking to collaborate on various full stack projects.
