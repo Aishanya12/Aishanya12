@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working as Developer L2
+- 🌱 I’m currently learning Javascript , React JS , CSS, HTML , SQL , EXCEL , Angular, C++
+- 👯 I’m looking to collaborate on various full stack projects.
+- 📫 How to reach me[email id](aishanya012@gmail.com)
+- ⚡ Fun fact: I love to sketch and draw [link to](https://www.instagram.com/aishanyart/)
 
 <!--
 **Aishanya12/Aishanya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
