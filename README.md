@@ -1,4 +1,4 @@
-<h1 align="center">yello there 👋 ! I am Aishanya Alankrit</h1>
+<h1 align="center">Hi there 👋 ! I am Aishanya Alankrit</h1>
 <h3 align="center">🔭 I’m currently working as Developer L2 </h3>
 <img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/000/160/601/16c.jpg">
 
