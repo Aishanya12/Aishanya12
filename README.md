@@ -2,7 +2,7 @@
 <h3 align="center">🔭 I’m currently working as Developer L2 </h3>
 <img align="right" alt="coding" width="400" src="https://i.kym-cdn.com/photos/images/original/000/160/601/16c.jpg">
 
-- 🌱 I’m currently learning Java , Springboot , CSS, HTML , SQL , EXCEL, C++
+- 🌱 I’m currently learning Java , Springboot , kafka, microservices HTML , SQL , EXCEL, C++
 
 - 👯 I’m looking to collaborate on various full stack projects.
   
